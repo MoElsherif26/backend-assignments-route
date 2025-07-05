@@ -1,0 +1,15 @@
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\bin\Debug\net9.0\Assignment03-C#Basics.exe
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\bin\Debug\net9.0\Assignment03-C#Basics.deps.json
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\bin\Debug\net9.0\Assignment03-C#Basics.runtimeconfig.json
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\bin\Debug\net9.0\Assignment03-C#Basics.dll
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\bin\Debug\net9.0\Assignment03-C#Basics.pdb
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.AssemblyInfoInputs.cache
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.AssemblyInfo.cs
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.csproj.CoreCompileInputs.cache
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.sourcelink.json
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.dll
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\refint\Assignment03-C#Basics.dll
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.pdb
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\Assignment03-C#Basics.genruntimeconfig.cache
+D:\Mohamed Omar\Route\back_end\Assignments\C#\03\Assignment03-C#Basics\obj\Debug\net9.0\ref\Assignment03-C#Basics.dll
