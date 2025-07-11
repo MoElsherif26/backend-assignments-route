@@ -1,0 +1,15 @@
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\bin\Debug\net9.0\Assignment06.exe
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\bin\Debug\net9.0\Assignment06.deps.json
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\bin\Debug\net9.0\Assignment06.runtimeconfig.json
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\bin\Debug\net9.0\Assignment06.dll
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\bin\Debug\net9.0\Assignment06.pdb
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.AssemblyInfoInputs.cache
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.AssemblyInfo.cs
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.csproj.CoreCompileInputs.cache
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.sourcelink.json
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.dll
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\refint\Assignment06.dll
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.pdb
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\Assignment06.genruntimeconfig.cache
+D:\Mohamed Omar\Route\back_end\Assignments\C#\06\Assignment06\obj\Debug\net9.0\ref\Assignment06.dll
