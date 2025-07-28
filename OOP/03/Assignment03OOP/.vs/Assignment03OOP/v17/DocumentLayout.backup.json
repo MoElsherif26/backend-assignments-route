@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\OOP\\03\\Assignment03OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E0605E-5606-4596-B186-BA32B76E74B6}|Assignment03OOP.csproj|d:\\moelsherif\\personal\\backend-assignments-route\\oop\\03\\assignment03oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E0605E-5606-4596-B186-BA32B76E74B6}|Assignment03OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\OOP\\03\\Assignment03OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\OOP\\03\\Assignment03OOP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:05:38.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
