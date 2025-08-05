@@ -1,0 +1,15 @@
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\bin\Debug\net9.0\Assignment_1_Advanced_C#.exe
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\bin\Debug\net9.0\Assignment_1_Advanced_C#.deps.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\bin\Debug\net9.0\Assignment_1_Advanced_C#.runtimeconfig.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\bin\Debug\net9.0\Assignment_1_Advanced_C#.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\bin\Debug\net9.0\Assignment_1_Advanced_C#.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.AssemblyInfoInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.AssemblyInfo.cs
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.csproj.CoreCompileInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.sourcelink.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\refint\Assignment_1_Advanced_C#.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\Assignment_1_Advanced_C#.genruntimeconfig.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\01\Assignment_1_Advanced_C#\obj\Debug\net9.0\ref\Assignment_1_Advanced_C#.dll
