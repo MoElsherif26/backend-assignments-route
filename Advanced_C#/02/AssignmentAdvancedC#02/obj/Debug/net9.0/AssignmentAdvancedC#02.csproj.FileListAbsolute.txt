@@ -1,0 +1,15 @@
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\bin\Debug\net9.0\AssignmentAdvancedC#02.exe
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\bin\Debug\net9.0\AssignmentAdvancedC#02.deps.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\bin\Debug\net9.0\AssignmentAdvancedC#02.runtimeconfig.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\bin\Debug\net9.0\AssignmentAdvancedC#02.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\bin\Debug\net9.0\AssignmentAdvancedC#02.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.AssemblyInfoInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.AssemblyInfo.cs
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.csproj.CoreCompileInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.sourcelink.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\refint\AssignmentAdvancedC#02.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\AssignmentAdvancedC#02.genruntimeconfig.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\02\AssignmentAdvancedC#02\obj\Debug\net9.0\ref\AssignmentAdvancedC#02.dll
