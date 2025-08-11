@@ -1,0 +1,15 @@
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\bin\Debug\net9.0\Assignment03.exe
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\bin\Debug\net9.0\Assignment03.deps.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\bin\Debug\net9.0\Assignment03.runtimeconfig.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\bin\Debug\net9.0\Assignment03.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\bin\Debug\net9.0\Assignment03.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.AssemblyInfoInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.AssemblyInfo.cs
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.csproj.CoreCompileInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.sourcelink.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\refint\Assignment03.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\Assignment03.genruntimeconfig.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\03\Assignment03\obj\Debug\net9.0\ref\Assignment03.dll
