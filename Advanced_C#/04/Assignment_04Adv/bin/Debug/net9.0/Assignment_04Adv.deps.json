@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Assignment_04Adv/1.0.0": {
+        "runtime": {
+          "Assignment_04Adv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_04Adv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

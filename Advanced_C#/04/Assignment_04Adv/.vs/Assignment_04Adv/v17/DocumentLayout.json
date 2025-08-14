@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\Advanced_C#\\04\\Assignment_04Adv\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92340215-03D7-42B2-8D5F-61707657AA0B}|Assignment_04Adv.csproj|d:\\moelsherif\\personal\\backend-assignments-route\\advanced_c#\\04\\assignment_04adv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92340215-03D7-42B2-8D5F-61707657AA0B}|Assignment_04Adv.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\Advanced_C#\\04\\Assignment_04Adv\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\Advanced_C#\\04\\Assignment_04Adv\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAIwLUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T11:22:24.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

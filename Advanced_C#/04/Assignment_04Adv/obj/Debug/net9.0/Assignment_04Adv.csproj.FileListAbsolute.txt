@@ -1,0 +1,15 @@
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.AssemblyInfoInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.AssemblyInfo.cs
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.csproj.CoreCompileInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.sourcelink.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\bin\Debug\net9.0\Assignment_04Adv.exe
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\bin\Debug\net9.0\Assignment_04Adv.deps.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\bin\Debug\net9.0\Assignment_04Adv.runtimeconfig.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\bin\Debug\net9.0\Assignment_04Adv.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\bin\Debug\net9.0\Assignment_04Adv.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\refint\Assignment_04Adv.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\Assignment_04Adv.genruntimeconfig.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Advanced_C#\04\Assignment_04Adv\obj\Debug\net9.0\ref\Assignment_04Adv.dll
