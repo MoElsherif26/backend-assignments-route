@@ -1,0 +1,15 @@
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\bin\Debug\net9.0\Exam_02.exe
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\bin\Debug\net9.0\Exam_02.deps.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\bin\Debug\net9.0\Exam_02.runtimeconfig.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\bin\Debug\net9.0\Exam_02.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\bin\Debug\net9.0\Exam_02.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.AssemblyInfoInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.AssemblyInfo.cs
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.csproj.CoreCompileInputs.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.sourcelink.json
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\refint\Exam_02.dll
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.pdb
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\Exam_02.genruntimeconfig.cache
+D:\MoElsherif\PERSONAL\backend-assignments-route\Exam_02\Exam_02\obj\Debug\net9.0\ref\Exam_02.dll
