@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\LINQ\\Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01090F71-CAA5-4CBD-A16E-9ADF3F5C1B97}|Assignment01.csproj|d:\\moelsherif\\personal\\backend-assignments-route\\linq\\assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01090F71-CAA5-4CBD-A16E-9ADF3F5C1B97}|Assignment01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01090F71-CAA5-4CBD-A16E-9ADF3F5C1B97}|Assignment01.csproj|d:\\moelsherif\\personal\\backend-assignments-route\\linq\\assignment01\\data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01090F71-CAA5-4CBD-A16E-9ADF3F5C1B97}|Assignment01.csproj|solutionrelative:data\\listgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\LINQ\\Assignment01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\LINQ\\Assignment01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:10:30.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerator.cs",
+              "DocumentMoniker": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\LINQ\\Assignment01\\Data\\ListGenerator.cs",
+              "RelativeDocumentMoniker": "Data\\ListGenerator.cs",
+              "ToolTip": "D:\\MoElsherif\\PERSONAL\\backend-assignments-route\\LINQ\\Assignment01\\Data\\ListGenerator.cs",
+              "RelativeToolTip": "Data\\ListGenerator.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowEgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T15:11:39.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
