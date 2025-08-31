@@ -1,1 +1,9 @@
 *.bak
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
