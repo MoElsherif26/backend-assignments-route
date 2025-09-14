@@ -4,6 +4,7 @@ using EFCore01.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCore01.Data.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250901083216_Init")]
+    partial class Init
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -48,8 +51,6 @@ namespace EFCore01.Data.Migrations
 
                     b.HasKey("ID");
 
-                    b.HasIndex("Top_ID");
-
                     b.ToTable("Course", (string)null);
                 });
 
@@ -67,8 +68,6 @@ namespace EFCore01.Data.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.HasKey("Inst_ID", "Course_ID");
-
-                    b.HasIndex("Course_ID");
 
                     b.ToTable("Course_Inst", (string)null);
                 });
@@ -125,8 +124,6 @@ namespace EFCore01.Data.Migrations
 
                     b.HasKey("ID");
 
-                    b.HasIndex("Dep_Id");
-
                     b.ToTable("Students");
                 });
 
@@ -162,8 +159,6 @@ namespace EFCore01.Data.Migrations
 
                     b.HasKey("ID");
 
-                    b.HasIndex("Dept_ID");
-
                     b.ToTable("Instructors");
                 });
 
@@ -180,8 +175,6 @@ namespace EFCore01.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Stud_ID", "Course_ID");
-
-                    b.HasIndex("Course_ID");
 
                     b.ToTable("Stud_Course");
                 });
@@ -201,77 +194,6 @@ namespace EFCore01.Data.Migrations
                     b.HasKey("ID");
 
                     b.ToTable("Topics");
-                });
-
-            modelBuilder.Entity("Course", b =>
-                {
-                    b.HasOne("Topic", "Topic")
-                        .WithMany()
-                        .HasForeignKey("Top_ID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Topic");
-                });
-
-            modelBuilder.Entity("CourseInst", b =>
-                {
-                    b.HasOne("Course", "Course")
-                        .WithMany()
-                        .HasForeignKey("Course_ID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("Instructor", "Instructor")
-                        .WithMany()
-                        .HasForeignKey("Inst_ID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Course");
-
-                    b.Navigation("Instructor");
-                });
-
-            modelBuilder.Entity("EFCore01.Entities.Student", b =>
-                {
-                    b.HasOne("Department", "Department")
-                        .WithMany()
-                        .HasForeignKey("Dep_Id")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Department");
-                });
-
-            modelBuilder.Entity("Instructor", b =>
-                {
-                    b.HasOne("Department", "Department")
-                        .WithMany()
-                        .HasForeignKey("Dept_ID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Department");
-                });
-
-            modelBuilder.Entity("StudCourse", b =>
-                {
-                    b.HasOne("Course", "Course")
-                        .WithMany()
-                        .HasForeignKey("Course_ID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("EFCore01.Entities.Student", "Student")
-                        .WithMany()
-                        .HasForeignKey("Stud_ID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Course");
-
-                    b.Navigation("Student");
                 });
 #pragma warning restore 612, 618
         }
